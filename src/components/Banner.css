@@ -1,0 +1,15 @@
+.banner {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #393c41;
+}
+
+.banner > a {
+  color: #393c41;
+}
+
+.banner-wrapper {
+  text-align: center;
+}
